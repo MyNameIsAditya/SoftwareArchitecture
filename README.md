@@ -4,6 +4,8 @@ I have created a Business Blueprint (BB) and associated Deployment Blueprints (D
 
 ## Sample Pictures
 
-![WebPageImage1](https://github.com/MyNameIsAditya/Sass_LandingPage/blob/master/readme_images/Screenshot%20(650).png)
-![WebPageImage1](https://github.com/MyNameIsAditya/Sass_LandingPage/blob/master/readme_images/Screenshot%20(651).png)
-![WebPageImage1](https://github.com/MyNameIsAditya/Sass_LandingPage/blob/master/readme_images/Screenshot%20(652).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/SoftwareArchitecture/blob/master/readme_images/Screenshot%20(657).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/SoftwareArchitecture/blob/master/readme_images/Screenshot%20(656).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/SoftwareArchitecture/blob/master/readme_images/Screenshot%20(655).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/SoftwareArchitecture/blob/master/readme_images/Screenshot%20(658).png)
+![WebPageImage1](https://github.com/MyNameIsAditya/SoftwareArchitecture/blob/master/readme_images/Screenshot%20(659).png)
